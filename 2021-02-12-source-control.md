@@ -1,8 +1,25 @@
-# 2 Approaches to Source Control Feature Branching
+---
+title: "Travis CI Pipelines: 2 Approaches to Source Control Feature Branching"
+created_at: Friday 12 Feb 2021 15:00:00 EDT
+author: Montana Mendy
+layout: post
+permalink: 2021-02-12-source-control
+category: news
+excerpt_separator: <!-- more --> 
+tags:
+  - news
+  - feature
+  - infrastructure
+  - community
+---
+
+![Header](images/matrix.png)
 
 Feature branching is a game-changing aspect of modern software development. Being able to have a developer implement a new feature in a body of code in a safe, independent, isolated manner using Git branching is an overall positive approach to the way companies make software.
 
 Over the years, two techniques of feature branching have emerged. One is what I call _branching from repo_. The other is _branching from fork_. Let’s explore each technique, as well as their benefits and tradeoffs.
+
+<!-- more --> 
 
 ## Branching from repo 
 
