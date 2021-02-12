@@ -13,7 +13,7 @@ tags:
   - community
 ---
 
-![Header](images/matrix.png)
+![Header](branching.png)
 
 Feature branching is a game-changing aspect of modern software development. Being able to have a developer implement a new feature in a body of code in a safe, independent, isolated manner using Git branching is an overall positive approach to the way companies make software.
 
