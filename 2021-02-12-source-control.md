@@ -41,7 +41,7 @@ In the branching from fork pattern, a developer interested in adding to and impr
 
 Once work on a given branch is complete, the developer makes a pull request to merge the code back into the originating repository.
 
-![Figure 3](Figure-03.png)
+![Figure 3](Figure-03.jpg)
 > Figure 3: GitHub supports pull requests for merging code between repositories in separate accounts.
 
 The important thing to understand about the branching from fork pattern is that it allows any developer to make improvements to code in an external repository in a controlled manner. All that’s required is view access to a repository of interest and then the cloning of the code.
