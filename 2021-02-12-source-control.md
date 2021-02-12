@@ -36,7 +36,7 @@ The important thing to understand about branching from repo is that all the work
 
 In the branching from fork pattern, a developer interested in adding to and improving upon code in a given repository forks the code into their own repository. Then, the developer creates branches against the forked code.
 
-![Figure 2](Figure-03.jpg)
+![Figure 2](Figure-02.png)
 > Figure 2: Developers use the branching from fork pattern to fork code from the business’s repository into the developer’s external repository to then create a feature branch.
 
 Once work on a given branch is complete, the developer makes a pull request to merge the code back into the originating repository.
